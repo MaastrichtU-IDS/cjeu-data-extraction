@@ -1,0 +1,4 @@
+fulltexts/*
+*.txt
+*.csv
+__pycache__
