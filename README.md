@@ -8,7 +8,7 @@ Python scripts for extracting citations, topics and full texts of cases by the C
 
 + [Python 3.7+](https://www.python.org/downloads/)
 + [Git](https://git-scm.com/) **or** an archive extractor like [7-Zip](https://www.7-zip.org/)
-+ A list of [CELEX](https://eur-lex.europa.eu/content/help/faq/celex-number.html) numbers of cases for which you would like to extract citations, full texts or topics. This has to be specified in a single CSV file called `input_celex_numbers.csv` with exactly one column. Each celex number (e.g. 62016CJ0295) should be specified on a separate line in the file.
++ A list of [CELEX](https://eur-lex.europa.eu/content/help/faq/celex-number.html) numbers of cases for which you would like to extract citations, full texts or topics. This has to be specified in a single CSV file called `input_celex_numbers.csv` with exactly one column. Each celex number (e.g. `62016CJ0295`) should be specified on a separate line in the file.
 
 ##### Instructions
     
