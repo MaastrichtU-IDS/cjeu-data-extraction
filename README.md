@@ -20,3 +20,7 @@ Python scripts for extracting citations, topics and full texts of cases by the C
 6. Run the command `pip install -r requirements.txt` which will install all required libraries for the scripts in your fresh Python virtual environment
 7. On installation completion of the required libraries in the previous step, change into the `scripts/` directory of your local copy of the code (this directory contains all `.py` code files)
 8. For extracting citations, run the command `python extract_case_citations.py`. For extracting [official topics](https://op.europa.eu/en/web/eu-vocabularies/at-dataset/-/resource/dataset/subject-matter/version-20200318-0), run the command `python extract_case_subjects.py`. For extracting full texts of cases, run the command `python extract_case_texts.py`
+
+## License
+Copyright (C) 2020, Kody Moodley
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
